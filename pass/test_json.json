@@ -1,0 +1,39 @@
+{
+    "beauty_title": "пер.",
+    "title": "Дятлова",
+    "other_titles": "Дятлова",
+    "connect": "0",
+    "add_time": "2023-02-17 00:00:00",
+    "user": {
+        "email": "petr@petrov.com",
+        "fam": "Петров",
+        "name": "Петр",
+        "otc": "Петрович",
+        "phone": "+7 863 324-48-99"
+    },
+    "coords": {
+        "latitude": "55.45",
+        "longitude": "37.37",
+        "height": "2500"
+    },
+    "level": {
+        "winter": "2С",
+        "summer": "1А*",
+        "autumn": "1А",
+        "spring": "2С*"
+    },
+    "images": [
+        {
+            "data": "<картинка1>",
+            "title": "Основание"
+        },
+        {
+            "data": "<картинка>",
+            "title": "Седло"
+        },
+        {
+            "data": "<картинка2>",
+            "title": "Обрыв"
+        }
+    ]
+}
